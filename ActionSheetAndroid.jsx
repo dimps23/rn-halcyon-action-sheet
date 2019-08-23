@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
 } from 'react-native';
 
-import Icon from '../Icon';
+import Icon from './Icon';
 
 const ActionSheetAndroid = props => {
   const {
