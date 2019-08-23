@@ -1,0 +1,30 @@
+{
+  "name": "rn-halcyon-action-sheet",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logicallydimp23/rn-halcyon-action-sheet.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "logicallydimp (Halcyon Digital Media)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logicallydimp23/rn-halcyon-action-sheet/issues"
+  },
+  "homepage": "https://github.com/logicallydimp23/rn-halcyon-action-sheet#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.56.0",
+    "react": "16.8.6",
+    "react-native": "0.60.0"
+  }
+}
